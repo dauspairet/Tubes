@@ -1,3 +1,5 @@
+float laut_bagian_atas [] = {
+    
 //Laut Bagian Atas
 
 //1
@@ -8113,3 +8115,5 @@
 
 
 
+
+};

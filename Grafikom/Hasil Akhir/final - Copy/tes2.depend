@@ -1,0 +1,2093 @@
+# depslib dependency file v1.0
+1665655791 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\main.cpp
+	<iostream>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<math.h>
+	"shaderClass.h"
+	"VAO.h"
+	"VBO.h"
+	"EBO.h"
+
+1665578577 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1663988598 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\include\glad\glad.h
+	"../KHR/khrplatform.h"
+
+1663988510 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1663821624 c:\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<GL/glext.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1663988598 c:\glad\include\glad\glad.h
+	"../KHR/khrplatform.h"
+
+1663988510 c:\glad\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1665042274 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\shaderclass.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<cerrno>
+
+1665042682 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\vao.h
+	<glad/glad.h>
+	"VBO.h"
+
+1665042608 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\vbo.h
+	<glad/glad.h>
+
+1665042730 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\ebo.h
+	<glad/glad.h>
+
+1665042754 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\ebo.cpp
+	"EBO.h"
+
+1665042562 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\shaderclass.cpp
+	"shaderClass.h"
+
+1665042702 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\vao.cpp
+	"VAO.h"
+
+1665042632 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tes2\vbo.cpp
+	"VBO.h"
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\ebo.cpp
+	"EBO.h"
+
+1651749606 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\ebo.h
+	<glad/glad.h>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1666867232 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\main.cpp
+	<filesystem>
+	<iostream>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb/stb_image.h>
+	"Texture.h"
+	"shaderClass.h"
+	"VAO.h"
+	"VBO.h"
+	"EBO.h"
+
+1651749606 c:\glad\include\stb\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1651749606 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\texture.h
+	<glad/glad.h>
+	<stb/stb_image.h>
+	"shaderClass.h"
+
+1651749606 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\shaderclass.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<cerrno>
+
+1651749606 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\vao.h
+	<glad/glad.h>
+	"VBO.h"
+
+1651749606 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\vbo.h
+	<glad/glad.h>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\shaderclass.cpp
+	"shaderClass.h"
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\vao.cpp
+	"VAO.h"
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\vbo.cpp
+	"VBO.h"
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\stb.cpp
+	<stb/stb_image.h>
+
+1666862637 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\t3_texture\texture.cpp
+	"Texture.h"
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\opengl_1\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1667575122 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\opengl_1\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"shader_s.h"
+	<iostream>
+
+1667397814 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\opengl_1\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1667397785 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\opengl_1\shader_s.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1669299858 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1667397785 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\shader_s.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1586799676 c:\glm\glm\glm.hpp
+	"detail/_fixes.hpp"
+	"detail/setup.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1586799676 c:\glm\glm\detail\_fixes.hpp
+	<cmath>
+
+1586799676 c:\glm\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+	<CL/sycl.hpp>
+	<limits>
+	<cstdint>
+	<type_traits>
+
+1586799676 c:\glm\glm\simd\platform.h
+	<cuda.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	"neon.h"
+
+1586799676 c:\glm\glm\simd\neon.h
+	<arm_neon.h>
+
+1586799676 c:\glm\glm\fwd.hpp
+	"detail/qualifier.hpp"
+
+1586799676 c:\glm\glm\detail\qualifier.hpp
+	"setup.hpp"
+
+1586799676 c:\glm\glm\vec2.hpp
+	"./ext/vector_bool2.hpp"
+	"./ext/vector_bool2_precision.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float2_precision.hpp"
+	"./ext/vector_double2.hpp"
+	"./ext/vector_double2_precision.hpp"
+	"./ext/vector_int2.hpp"
+	"./ext/vector_int2_sized.hpp"
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_uint2_sized.hpp"
+
+1586799676 c:\glm\glm\ext\vector_bool2.hpp
+	"../detail/type_vec2.hpp"
+
+1586799676 c:\glm\glm\detail\type_vec2.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1586799676 c:\glm\glm\detail\_swizzle.hpp
+
+1586799676 c:\glm\glm\detail\_swizzle_func.hpp
+
+1586799676 c:\glm\glm\detail\type_vec2.inl
+	"./compute_vector_relational.hpp"
+
+1586799676 c:\glm\glm\detail\compute_vector_relational.hpp
+	"setup.hpp"
+	<limits>
+
+1586799676 c:\glm\glm\ext\vector_bool2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1586799676 c:\glm\glm\ext\vector_float2.hpp
+	"../detail/type_vec2.hpp"
+
+1586799676 c:\glm\glm\ext\vector_float2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1586799676 c:\glm\glm\ext\vector_double2.hpp
+	"../detail/type_vec2.hpp"
+
+1586799676 c:\glm\glm\ext\vector_double2_precision.hpp
+	"../detail/type_vec2.hpp"
+
+1586799676 c:\glm\glm\ext\vector_int2.hpp
+	"../detail/type_vec2.hpp"
+
+1586799676 c:\glm\glm\ext\vector_int2_sized.hpp
+	"../ext/vector_int2.hpp"
+	"../ext/scalar_int_sized.hpp"
+
+1586799676 c:\glm\glm\ext\scalar_int_sized.hpp
+	"../detail/setup.hpp"
+
+1586799676 c:\glm\glm\ext\vector_uint2.hpp
+	"../detail/type_vec2.hpp"
+
+1586799676 c:\glm\glm\ext\vector_uint2_sized.hpp
+	"../ext/vector_uint2.hpp"
+	"../ext/scalar_uint_sized.hpp"
+
+1586799676 c:\glm\glm\ext\scalar_uint_sized.hpp
+	"../detail/setup.hpp"
+
+1586799676 c:\glm\glm\vec3.hpp
+	"./ext/vector_bool3.hpp"
+	"./ext/vector_bool3_precision.hpp"
+	"./ext/vector_float3.hpp"
+	"./ext/vector_float3_precision.hpp"
+	"./ext/vector_double3.hpp"
+	"./ext/vector_double3_precision.hpp"
+	"./ext/vector_int3.hpp"
+	"./ext/vector_int3_sized.hpp"
+	"./ext/vector_uint3.hpp"
+	"./ext/vector_uint3_sized.hpp"
+
+1586799676 c:\glm\glm\ext\vector_bool3.hpp
+	"../detail/type_vec3.hpp"
+
+1586799676 c:\glm\glm\detail\type_vec3.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1586799676 c:\glm\glm\detail\type_vec3.inl
+	"compute_vector_relational.hpp"
+
+1586799676 c:\glm\glm\ext\vector_bool3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1586799676 c:\glm\glm\ext\vector_float3.hpp
+	"../detail/type_vec3.hpp"
+
+1586799676 c:\glm\glm\ext\vector_float3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1586799676 c:\glm\glm\ext\vector_double3.hpp
+	"../detail/type_vec3.hpp"
+
+1586799676 c:\glm\glm\ext\vector_double3_precision.hpp
+	"../detail/type_vec3.hpp"
+
+1586799676 c:\glm\glm\ext\vector_int3.hpp
+	"../detail/type_vec3.hpp"
+
+1586799676 c:\glm\glm\ext\vector_int3_sized.hpp
+	"../ext/vector_int3.hpp"
+	"../ext/scalar_int_sized.hpp"
+
+1586799676 c:\glm\glm\ext\vector_uint3.hpp
+	"../detail/type_vec3.hpp"
+
+1586799676 c:\glm\glm\ext\vector_uint3_sized.hpp
+	"../ext/vector_uint3.hpp"
+	"../ext/scalar_uint_sized.hpp"
+
+1586799676 c:\glm\glm\vec4.hpp
+	"./ext/vector_bool4.hpp"
+	"./ext/vector_bool4_precision.hpp"
+	"./ext/vector_float4.hpp"
+	"./ext/vector_float4_precision.hpp"
+	"./ext/vector_double4.hpp"
+	"./ext/vector_double4_precision.hpp"
+	"./ext/vector_int4.hpp"
+	"./ext/vector_int4_sized.hpp"
+	"./ext/vector_uint4.hpp"
+	"./ext/vector_uint4_sized.hpp"
+
+1586799676 c:\glm\glm\ext\vector_bool4.hpp
+	"../detail/type_vec4.hpp"
+
+1586799676 c:\glm\glm\detail\type_vec4.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1586799676 c:\glm\glm\detail\type_vec4.inl
+	"compute_vector_relational.hpp"
+	"type_vec4_simd.inl"
+
+1586799676 c:\glm\glm\detail\type_vec4_simd.inl
+
+1586799676 c:\glm\glm\ext\vector_bool4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1586799676 c:\glm\glm\ext\vector_float4.hpp
+	"../detail/type_vec4.hpp"
+
+1586799676 c:\glm\glm\ext\vector_float4_precision.hpp
+	"../detail/type_vec4.hpp"
+
+1586799676 c:\glm\glm\ext\vector_double4.hpp
+	"../detail/type_vec4.hpp"
+
+1586799676 c:\glm\glm\ext\vector_double4_precision.hpp
+	"../detail/setup.hpp"
+	"../detail/type_vec4.hpp"
+
+1586799676 c:\glm\glm\ext\vector_int4.hpp
+	"../detail/type_vec4.hpp"
+
+1586799676 c:\glm\glm\ext\vector_int4_sized.hpp
+	"../ext/vector_int4.hpp"
+	"../ext/scalar_int_sized.hpp"
+
+1586799676 c:\glm\glm\ext\vector_uint4.hpp
+	"../detail/type_vec4.hpp"
+
+1586799676 c:\glm\glm\ext\vector_uint4_sized.hpp
+	"../ext/vector_uint4.hpp"
+	"../ext/scalar_uint_sized.hpp"
+
+1586799676 c:\glm\glm\mat2x2.hpp
+	"./ext/matrix_double2x2.hpp"
+	"./ext/matrix_double2x2_precision.hpp"
+	"./ext/matrix_float2x2.hpp"
+	"./ext/matrix_float2x2_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat2x2.hpp
+	"type_vec2.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1586799676 c:\glm\glm\detail\type_mat2x2.inl
+	"../matrix.hpp"
+
+1586799676 c:\glm\glm\matrix.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"detail/func_matrix.inl"
+
+1586799676 c:\glm\glm\mat2x3.hpp
+	"./ext/matrix_double2x3.hpp"
+	"./ext/matrix_double2x3_precision.hpp"
+	"./ext/matrix_float2x3.hpp"
+	"./ext/matrix_float2x3_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat2x3.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1586799676 c:\glm\glm\detail\type_mat2x3.inl
+
+1586799676 c:\glm\glm\ext\matrix_double2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float2x3.hpp
+	"../detail/type_mat2x3.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float2x3_precision.hpp
+	"../detail/type_mat2x3.hpp"
+
+1586799676 c:\glm\glm\mat2x4.hpp
+	"./ext/matrix_double2x4.hpp"
+	"./ext/matrix_double2x4_precision.hpp"
+	"./ext/matrix_float2x4.hpp"
+	"./ext/matrix_float2x4_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat2x4.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1586799676 c:\glm\glm\detail\type_mat2x4.inl
+
+1586799676 c:\glm\glm\ext\matrix_double2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float2x4.hpp
+	"../detail/type_mat2x4.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float2x4_precision.hpp
+	"../detail/type_mat2x4.hpp"
+
+1586799676 c:\glm\glm\mat3x2.hpp
+	"./ext/matrix_double3x2.hpp"
+	"./ext/matrix_double3x2_precision.hpp"
+	"./ext/matrix_float3x2.hpp"
+	"./ext/matrix_float3x2_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat3x2.hpp
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1586799676 c:\glm\glm\detail\type_mat3x2.inl
+
+1586799676 c:\glm\glm\ext\matrix_double3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float3x2.hpp
+	"../detail/type_mat3x2.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float3x2_precision.hpp
+	"../detail/type_mat3x2.hpp"
+
+1586799676 c:\glm\glm\mat3x3.hpp
+	"./ext/matrix_double3x3.hpp"
+	"./ext/matrix_double3x3_precision.hpp"
+	"./ext/matrix_float3x3.hpp"
+	"./ext/matrix_float3x3_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat3x3.hpp
+	"type_vec3.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1586799676 c:\glm\glm\detail\type_mat3x3.inl
+	"../matrix.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float3x3.hpp
+	"../detail/type_mat3x3.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float3x3_precision.hpp
+	"../detail/type_mat3x3.hpp"
+
+1586799676 c:\glm\glm\mat3x4.hpp
+	"./ext/matrix_double3x4.hpp"
+	"./ext/matrix_double3x4_precision.hpp"
+	"./ext/matrix_float3x4.hpp"
+	"./ext/matrix_float3x4_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat3x4.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1586799676 c:\glm\glm\detail\type_mat3x4.inl
+
+1586799676 c:\glm\glm\ext\matrix_double3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float3x4.hpp
+	"../detail/type_mat3x4.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float3x4_precision.hpp
+	"../detail/type_mat3x4.hpp"
+
+1586799676 c:\glm\glm\mat4x2.hpp
+	"./ext/matrix_double4x2.hpp"
+	"./ext/matrix_double4x2_precision.hpp"
+	"./ext/matrix_float4x2.hpp"
+	"./ext/matrix_float4x2_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat4x2.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1586799676 c:\glm\glm\detail\type_mat4x2.inl
+
+1586799676 c:\glm\glm\ext\matrix_double4x2_precision.hpp
+	"../detail/type_mat4x2.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float4x2.hpp
+	"../detail/type_mat4x2.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float4x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1586799676 c:\glm\glm\mat4x3.hpp
+	"./ext/matrix_double4x3.hpp"
+	"./ext/matrix_double4x3_precision.hpp"
+	"./ext/matrix_float4x3.hpp"
+	"./ext/matrix_float4x3_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat4x3.hpp
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1586799676 c:\glm\glm\detail\type_mat4x3.inl
+
+1586799676 c:\glm\glm\ext\matrix_double4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float4x3.hpp
+	"../detail/type_mat4x3.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float4x3_precision.hpp
+	"../detail/type_mat4x3.hpp"
+
+1586799676 c:\glm\glm\mat4x4.hpp
+	"./ext/matrix_double4x4.hpp"
+	"./ext/matrix_double4x4_precision.hpp"
+	"./ext/matrix_float4x4.hpp"
+	"./ext/matrix_float4x4_precision.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_double4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1586799676 c:\glm\glm\detail\type_mat4x4.hpp
+	"type_vec4.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1586799676 c:\glm\glm\detail\type_mat4x4.inl
+	"../matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1586799676 c:\glm\glm\detail\type_mat4x4_simd.inl
+
+1586799676 c:\glm\glm\ext\matrix_double4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float4x4.hpp
+	"../detail/type_mat4x4.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float4x4_precision.hpp
+	"../detail/type_mat4x4.hpp"
+
+1586799676 c:\glm\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1586799676 c:\glm\glm\geometric.hpp
+	"detail/type_vec3.hpp"
+	"detail/func_geometric.inl"
+
+1586799676 c:\glm\glm\detail\func_geometric.inl
+	"../exponential.hpp"
+	"../common.hpp"
+	"func_geometric_simd.inl"
+
+1586799676 c:\glm\glm\exponential.hpp
+	"detail/type_vec1.hpp"
+	"detail/type_vec2.hpp"
+	"detail/type_vec3.hpp"
+	"detail/type_vec4.hpp"
+	<cmath>
+	"detail/func_exponential.inl"
+
+1586799676 c:\glm\glm\detail\type_vec1.hpp
+	"qualifier.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1586799676 c:\glm\glm\detail\type_vec1.inl
+	"./compute_vector_relational.hpp"
+
+1586799676 c:\glm\glm\detail\func_exponential.inl
+	"../vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1586799676 c:\glm\glm\vector_relational.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"detail/func_vector_relational.inl"
+
+1586799676 c:\glm\glm\detail\func_vector_relational.inl
+	"func_vector_relational_simd.inl"
+
+1586799676 c:\glm\glm\detail\func_vector_relational_simd.inl
+
+1586799676 c:\glm\glm\detail\_vectorize.hpp
+
+1586799676 c:\glm\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1586799676 c:\glm\glm\simd\exponential.h
+	"platform.h"
+
+1586799676 c:\glm\glm\common.hpp
+	"detail/qualifier.hpp"
+	"detail/_fixes.hpp"
+	"detail/func_common.inl"
+
+1586799676 c:\glm\glm\detail\func_common.inl
+	"../vector_relational.hpp"
+	"compute_common.hpp"
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1586799676 c:\glm\glm\detail\compute_common.hpp
+	"setup.hpp"
+	<limits>
+
+1586799676 c:\glm\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1586799676 c:\glm\glm\simd\common.h
+	"platform.h"
+
+1586799676 c:\glm\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1586799676 c:\glm\glm\simd\geometric.h
+	"common.h"
+
+1586799676 c:\glm\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"../geometric.hpp"
+	"../simd/matrix.h"
+	<cstring>
+
+1586799676 c:\glm\glm\simd\matrix.h
+	"geometric.h"
+
+1586799676 c:\glm\glm\ext\matrix_double2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float2x2.hpp
+	"../detail/type_mat2x2.hpp"
+
+1586799676 c:\glm\glm\ext\matrix_float2x2_precision.hpp
+	"../detail/type_mat2x2.hpp"
+
+1586799676 c:\glm\glm\trigonometric.hpp
+	"detail/setup.hpp"
+	"detail/qualifier.hpp"
+	"detail/func_trigonometric.inl"
+
+1586799676 c:\glm\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1586799676 c:\glm\glm\detail\func_trigonometric_simd.inl
+
+1586799676 c:\glm\glm\packing.hpp
+	"./ext/vector_uint2.hpp"
+	"./ext/vector_float2.hpp"
+	"./ext/vector_float4.hpp"
+	"detail/func_packing.inl"
+
+1586799676 c:\glm\glm\detail\func_packing.inl
+	"../common.hpp"
+	"type_half.hpp"
+	"func_packing_simd.inl"
+
+1586799676 c:\glm\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1586799676 c:\glm\glm\detail\type_half.inl
+
+1586799676 c:\glm\glm\detail\func_packing_simd.inl
+
+1586799676 c:\glm\glm\integer.hpp
+	"detail/qualifier.hpp"
+	"common.hpp"
+	"vector_relational.hpp"
+	"detail/func_integer.inl"
+
+1586799676 c:\glm\glm\detail\func_integer.inl
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1586799676 c:\glm\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1586799676 c:\glm\glm\simd\integer.h
+
+1586799676 c:\glm\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../ext/matrix_projection.hpp"
+	"../ext/matrix_clip_space.hpp"
+	"../ext/matrix_transform.hpp"
+	"matrix_transform.inl"
+
+1586799676 c:\glm\glm\ext\matrix_projection.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_projection.inl"
+
+1586799676 c:\glm\glm\gtc\constants.hpp
+	"../ext/scalar_constants.hpp"
+	"constants.inl"
+
+1586799676 c:\glm\glm\ext\scalar_constants.hpp
+	"../detail/setup.hpp"
+	"scalar_constants.inl"
+
+1586799676 c:\glm\glm\ext\scalar_constants.inl
+	<limits>
+
+1586799676 c:\glm\glm\gtc\constants.inl
+
+1586799676 c:\glm\glm\ext\matrix_projection.inl
+
+1586799676 c:\glm\glm\ext\matrix_clip_space.hpp
+	"../ext/scalar_constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"matrix_clip_space.inl"
+
+1586799676 c:\glm\glm\ext\matrix_clip_space.inl
+
+1586799676 c:\glm\glm\ext\matrix_transform.hpp
+	"../gtc/constants.hpp"
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+	"matrix_transform.inl"
+
+1586799676 c:\glm\glm\ext\matrix_transform.inl
+
+1586799676 c:\glm\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1586799676 c:\glm\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../gtc/vec1.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1586799676 c:\glm\glm\gtc\quaternion.hpp
+	"../gtc/constants.hpp"
+	"../gtc/matrix_transform.hpp"
+	"../ext/vector_relational.hpp"
+	"../ext/quaternion_common.hpp"
+	"../ext/quaternion_float.hpp"
+	"../ext/quaternion_float_precision.hpp"
+	"../ext/quaternion_double.hpp"
+	"../ext/quaternion_double_precision.hpp"
+	"../ext/quaternion_relational.hpp"
+	"../ext/quaternion_geometric.hpp"
+	"../ext/quaternion_trigonometric.hpp"
+	"../ext/quaternion_transform.hpp"
+	"../detail/type_mat3x3.hpp"
+	"../detail/type_mat4x4.hpp"
+	"../detail/type_vec3.hpp"
+	"../detail/type_vec4.hpp"
+	"quaternion.inl"
+
+1586799676 c:\glm\glm\ext\vector_relational.hpp
+	"../detail/qualifier.hpp"
+	"vector_relational.inl"
+
+1586799676 c:\glm\glm\ext\vector_relational.inl
+	"../vector_relational.hpp"
+	"../common.hpp"
+	"../detail/qualifier.hpp"
+	"../detail/type_float.hpp"
+
+1586799676 c:\glm\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1586799676 c:\glm\glm\ext\quaternion_common.hpp
+	"../ext/scalar_constants.hpp"
+	"../ext/quaternion_geometric.hpp"
+	"../common.hpp"
+	"../trigonometric.hpp"
+	"../exponential.hpp"
+	<limits>
+	"quaternion_common.inl"
+
+1586799676 c:\glm\glm\ext\quaternion_geometric.hpp
+	"../geometric.hpp"
+	"../exponential.hpp"
+	"../ext/vector_relational.hpp"
+	"quaternion_geometric.inl"
+
+1586799676 c:\glm\glm\ext\quaternion_geometric.inl
+
+1586799676 c:\glm\glm\ext\quaternion_common.inl
+	"quaternion_common_simd.inl"
+
+1586799676 c:\glm\glm\ext\quaternion_common_simd.inl
+
+1586799676 c:\glm\glm\ext\quaternion_float.hpp
+	"../detail/type_quat.hpp"
+
+1586799676 c:\glm\glm\detail\type_quat.hpp
+	"../detail/type_mat3x3.hpp"
+	"../detail/type_mat4x4.hpp"
+	"../detail/type_vec3.hpp"
+	"../detail/type_vec4.hpp"
+	"../ext/vector_relational.hpp"
+	"../ext/quaternion_relational.hpp"
+	"../gtc/constants.hpp"
+	"../gtc/matrix_transform.hpp"
+	"type_quat.inl"
+
+1586799676 c:\glm\glm\ext\quaternion_relational.hpp
+	"../vector_relational.hpp"
+	"quaternion_relational.inl"
+
+1586799676 c:\glm\glm\ext\quaternion_relational.inl
+
+1586799676 c:\glm\glm\detail\type_quat.inl
+	"../trigonometric.hpp"
+	"../exponential.hpp"
+	"../ext/quaternion_geometric.hpp"
+	<limits>
+	"type_quat_simd.inl"
+
+1586799676 c:\glm\glm\detail\type_quat_simd.inl
+
+1586799676 c:\glm\glm\ext\quaternion_float_precision.hpp
+	"../detail/type_quat.hpp"
+
+1586799676 c:\glm\glm\ext\quaternion_double.hpp
+	"../detail/type_quat.hpp"
+
+1586799676 c:\glm\glm\ext\quaternion_double_precision.hpp
+	"../detail/type_quat.hpp"
+
+1586799676 c:\glm\glm\ext\quaternion_trigonometric.hpp
+	"../trigonometric.hpp"
+	"../exponential.hpp"
+	"scalar_constants.hpp"
+	"vector_relational.hpp"
+	<limits>
+	"quaternion_trigonometric.inl"
+
+1586799676 c:\glm\glm\ext\quaternion_trigonometric.inl
+	"scalar_constants.hpp"
+
+1586799676 c:\glm\glm\ext\quaternion_transform.hpp
+	"../common.hpp"
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"quaternion_transform.inl"
+
+1586799676 c:\glm\glm\ext\quaternion_transform.inl
+
+1586799676 c:\glm\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	"epsilon.hpp"
+	<limits>
+	"quaternion_simd.inl"
+
+1586799676 c:\glm\glm\gtc\epsilon.hpp
+	"../detail/setup.hpp"
+	"../detail/qualifier.hpp"
+	"epsilon.inl"
+
+1586799676 c:\glm\glm\gtc\epsilon.inl
+	"../vector_relational.hpp"
+	"../common.hpp"
+
+1586799676 c:\glm\glm\gtc\quaternion_simd.inl
+
+1586799676 c:\glm\glm\gtc\vec1.hpp
+	"../ext/vector_bool1.hpp"
+	"../ext/vector_bool1_precision.hpp"
+	"../ext/vector_float1.hpp"
+	"../ext/vector_float1_precision.hpp"
+	"../ext/vector_double1.hpp"
+	"../ext/vector_double1_precision.hpp"
+	"../ext/vector_int1.hpp"
+	"../ext/vector_int1_sized.hpp"
+	"../ext/vector_uint1.hpp"
+	"../ext/vector_uint1_sized.hpp"
+
+1586799676 c:\glm\glm\ext\vector_bool1.hpp
+	"../detail/type_vec1.hpp"
+
+1586799676 c:\glm\glm\ext\vector_bool1_precision.hpp
+	"../detail/type_vec1.hpp"
+
+1586799676 c:\glm\glm\ext\vector_float1.hpp
+	"../detail/type_vec1.hpp"
+
+1586799676 c:\glm\glm\ext\vector_float1_precision.hpp
+	"../detail/type_vec1.hpp"
+
+1586799676 c:\glm\glm\ext\vector_double1.hpp
+	"../detail/type_vec1.hpp"
+
+1586799676 c:\glm\glm\ext\vector_double1_precision.hpp
+	"../detail/type_vec1.hpp"
+
+1586799676 c:\glm\glm\ext\vector_int1.hpp
+	"../detail/type_vec1.hpp"
+
+1586799676 c:\glm\glm\ext\vector_int1_sized.hpp
+	"../ext/vector_int1.hpp"
+	"../ext/scalar_int_sized.hpp"
+
+1586799676 c:\glm\glm\ext\vector_uint1.hpp
+	"../detail/type_vec1.hpp"
+
+1586799676 c:\glm\glm\ext\vector_uint1_sized.hpp
+	"../ext/vector_uint1.hpp"
+	"../ext/scalar_uint_sized.hpp"
+
+1586799676 c:\glm\glm\gtc\type_ptr.inl
+	<cstring>
+
+1669297656 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1669607869 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1669297656 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\hasil1_ikan_texture_shader\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\hasil3\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1670738585 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\hasil3\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"vertex.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\hasil3\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1669297656 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\hasil3\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\hasil3\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1670738448 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\hasil3\vertex.h
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\template_transform\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1670745911 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\template_transform\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"koordinat/hiu.h"
+	"koordinat/elang.h"
+	"koordinat/ikan_nemo.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\template_transform\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1670745047 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\template_transform\koordinat\hiu.h
+
+1670745604 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\template_transform\koordinat\elang.h
+
+1670745050 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\template_transform\koordinat\ikan_nemo.h
+
+1669297656 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\template_transform\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\template_transform\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1670840534 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"koordinat/hiu.h"
+	"koordinat/elang.h"
+	"koordinat/ikan_nemo.h"
+	"koordinat/awan.h"
+	"koordinat/bulan.h"
+	"koordinat/dori.h"
+	"koordinat/laut.h"
+	"koordinat/pasir.h"
+	"koordinat/pulau.h"
+	"koordinat/rumput.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1670745047 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\hiu.h
+
+1670745604 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\elang.h
+
+1670745050 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\ikan_nemo.h
+
+1669297656 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1670840026 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\awan.h
+
+1670840038 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\bulan.h
+
+1670840049 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\dori.h
+
+1670840083 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\laut.h
+
+1670840122 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\pasir.h
+
+1670840573 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\pulau.h
+
+1670840136 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\hasil\final1_tubes_grafikom\koordinat\rumput.h
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1671523776 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"koordinat.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1670939599 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat\pasir.cpp
+
+1670939510 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1671524483 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\balon_udara.cpp
+
+1671420293 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\head.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<iostream>
+
+1671524445 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"Koordinat_pewarnaan/balon_udara.cpp"
+
+1671421941 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\laut_atas.cpp
+
+1671422501 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\bulan.cpp
+
+1671412886 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\awan_atas_jembatan.cpp
+
+1671422782 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\bintang_laut.cpp
+
+1671422802 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\campfire.cpp
+
+1671257913 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\coral.cpp
+
+1671422825 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\dori.cpp
+
+1671447340 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\elang.cpp
+
+1671256600 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\gua.cpp
+
+1671447386 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\gurita.cpp
+
+1671447420 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\hiu.cpp
+
+1671447456 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\ikan_biru.cpp
+
+1671447475 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\ikan_krem.cpp
+
+1671447491 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\kawanan_burung.cpp
+
+1671447520 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\kerang_hijau.cpp
+
+1671447551 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\kerang_oreo.cpp
+
+1671447590 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\laut_depan.cpp
+
+1671447617 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\laut_samping.cpp
+
+1671447794 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\nemo.cpp
+
+1671447815 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\pasir.cpp
+
+1671448054 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\perahu.cpp
+
+1671448117 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\pohon.cpp
+
+1671451643 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\pulau.cpp
+
+1671448191 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\rumah_bob.cpp
+
+1671448208 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\rumah_patrick.cpp
+
+1671448263 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\rumah_squidward.cpp
+
+1671448277 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\rumput.cpp
+
+1671448293 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\sailboat.cpp
+
+1671448308 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\spongebob.cpp
+
+1671255319 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\ubur_ubur.cpp
+
+1671448348 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\menara.cpp
+
+1671416767 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\awan_atas_pulau_kecil.cpp
+
+1671418207 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\awan_deket_bulan.cpp
+
+1671450700 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru_1\koordinat_pewarnaan\batu_bawah_laut.cpp
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-5 - texture\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1672288200 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\main.cpp
+	"include.h"
+
+1672285222 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\include.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"Koordinat_pewarnaan/balon_udara.cpp"
+	"Koordinat_pewarnaan/laut_atas.cpp"
+	"Koordinat_pewarnaan/bulan.cpp"
+	"Koordinat_pewarnaan/awan_atas_jembatan.cpp"
+	"Koordinat_pewarnaan/awan_atas_pulau_kecil.cpp"
+	"Koordinat_pewarnaan/awan_deket_bulan.cpp"
+	"Koordinat_pewarnaan/bintang_laut.cpp"
+	"Koordinat_pewarnaan/campfire.cpp"
+	"Koordinat_pewarnaan/coral.cpp"
+	"Koordinat_pewarnaan/dori.cpp"
+	"Koordinat_pewarnaan/elang.cpp"
+	"Koordinat_pewarnaan/gua.cpp"
+	"Koordinat_pewarnaan/gurita.cpp"
+	"Koordinat_pewarnaan/hiu.cpp"
+	"Koordinat_pewarnaan/ikan_biru.cpp"
+	"Koordinat_pewarnaan/ikan_krem.cpp"
+	"Koordinat_pewarnaan/kawanan_burung.cpp"
+	"Koordinat_pewarnaan/kerang_hijau.cpp"
+	"Koordinat_pewarnaan/kerang_oreo.cpp"
+	"Koordinat_pewarnaan/laut_depan.cpp"
+	"Koordinat_pewarnaan/laut_samping.cpp"
+	"Koordinat_pewarnaan/nemo.cpp"
+	"Koordinat_pewarnaan/pasir.cpp"
+	"Koordinat_pewarnaan/perahu.cpp"
+	"Koordinat_pewarnaan/pohon.cpp"
+	"Koordinat_pewarnaan/pulau.cpp"
+	"Koordinat_pewarnaan/rumah_bob.cpp"
+	"Koordinat_pewarnaan/rumah_patrick.cpp"
+	"Koordinat_pewarnaan/rumah_squidward.cpp"
+	"Koordinat_pewarnaan/rumput.cpp"
+	"Koordinat_pewarnaan/sailboat.cpp"
+	"Koordinat_pewarnaan/spongebob.cpp"
+	"Koordinat_pewarnaan/menara.cpp"
+	"Koordinat_pewarnaan/ubur_ubur.cpp"
+	"Koordinat_pewarnaan/batu_bawah_laut.cpp"
+	"Koordinat_pewarnaan/hujan.cpp"
+	"Koordinat_pewarnaan/lampu_menara.cpp"
+	"Koordinat_pewarnaan/cahaya_menara.cpp"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1671524612 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\balon_udara.cpp
+
+1671526232 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\laut_atas.cpp
+
+1671526169 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\bulan.cpp
+
+1671524677 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\awan_atas_jembatan.cpp
+
+1671524683 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\awan_atas_pulau_kecil.cpp
+
+1671524688 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\awan_deket_bulan.cpp
+
+1671526120 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\bintang_laut.cpp
+
+1671526176 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\campfire.cpp
+
+1671526182 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\coral.cpp
+
+1671526191 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\dori.cpp
+
+1671526195 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\elang.cpp
+
+1671526201 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\gua.cpp
+
+1671526205 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\gurita.cpp
+
+1671526209 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\hiu.cpp
+
+1671526213 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\ikan_biru.cpp
+
+1671526217 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\ikan_krem.cpp
+
+1671526221 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\kawanan_burung.cpp
+
+1671526225 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\kerang_hijau.cpp
+
+1671526228 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\kerang_oreo.cpp
+
+1672217943 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\laut_depan.cpp
+
+1672217945 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\laut_samping.cpp
+
+1671526248 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\nemo.cpp
+
+1671526251 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\pasir.cpp
+
+1671526255 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\perahu.cpp
+
+1671526259 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\pohon.cpp
+
+1671526262 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\pulau.cpp
+
+1671526270 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\rumah_bob.cpp
+
+1671526276 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\rumah_patrick.cpp
+
+1671526281 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\rumah_squidward.cpp
+
+1671526284 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\rumput.cpp
+
+1671526287 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\sailboat.cpp
+
+1671526291 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\spongebob.cpp
+
+1671526244 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\menara.cpp
+
+1671526294 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\ubur_ubur.cpp
+
+1671526110 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\batu_bawah_laut.cpp
+
+1670939510 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1672232089 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\hujan.cpp
+
+1672284405 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\lampu_menara.cpp
+
+1672287089 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\baru-7 - texture - skybox - transformation\koordinat_pewarnaan\cahaya_menara.cpp
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1672336274 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\main.cpp
+	"include.h"
+
+1672335673 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\include.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"Koordinat_pewarnaan/balon_udara.cpp"
+	"Koordinat_pewarnaan/laut_atas.cpp"
+	"Koordinat_pewarnaan/bulan.cpp"
+	"Koordinat_pewarnaan/awan_atas_jembatan.cpp"
+	"Koordinat_pewarnaan/awan_atas_pulau_kecil.cpp"
+	"Koordinat_pewarnaan/awan_deket_bulan.cpp"
+	"Koordinat_pewarnaan/bintang_laut.cpp"
+	"Koordinat_pewarnaan/campfire.cpp"
+	"Koordinat_pewarnaan/coral.cpp"
+	"Koordinat_pewarnaan/dori.cpp"
+	"Koordinat_pewarnaan/elang.cpp"
+	"Koordinat_pewarnaan/gua.cpp"
+	"Koordinat_pewarnaan/gurita.cpp"
+	"Koordinat_pewarnaan/hiu.cpp"
+	"Koordinat_pewarnaan/ikan_biru.cpp"
+	"Koordinat_pewarnaan/ikan_krem.cpp"
+	"Koordinat_pewarnaan/kawanan_burung.cpp"
+	"Koordinat_pewarnaan/kerang_hijau.cpp"
+	"Koordinat_pewarnaan/kerang_oreo.cpp"
+	"Koordinat_pewarnaan/laut_depan.cpp"
+	"Koordinat_pewarnaan/laut_samping.cpp"
+	"Koordinat_pewarnaan/nemo.cpp"
+	"Koordinat_pewarnaan/pasir.cpp"
+	"Koordinat_pewarnaan/perahu.cpp"
+	"Koordinat_pewarnaan/pohon.cpp"
+	"Koordinat_pewarnaan/pulau.cpp"
+	"Koordinat_pewarnaan/rumah_bob.cpp"
+	"Koordinat_pewarnaan/rumah_patrick.cpp"
+	"Koordinat_pewarnaan/rumah_squidward.cpp"
+	"Koordinat_pewarnaan/rumput.cpp"
+	"Koordinat_pewarnaan/sailboat.cpp"
+	"Koordinat_pewarnaan/spongebob.cpp"
+	"Koordinat_pewarnaan/menara.cpp"
+	"Koordinat_pewarnaan/ubur_ubur.cpp"
+	"Koordinat_pewarnaan/batu_bawah_laut.cpp"
+	"Koordinat_pewarnaan/hujan.cpp"
+	"Koordinat_pewarnaan/lampu_menara.cpp"
+	"Koordinat_pewarnaan/cahaya_menara.cpp"
+	"Koordinat_pewarnaan/api.cpp"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1671524612 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\balon_udara.cpp
+
+1671526232 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\laut_atas.cpp
+
+1672325711 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\bulan.cpp
+
+1671524677 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\awan_atas_jembatan.cpp
+
+1671524683 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\awan_atas_pulau_kecil.cpp
+
+1671524688 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\awan_deket_bulan.cpp
+
+1671526120 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\bintang_laut.cpp
+
+1671526176 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\campfire.cpp
+
+1671526182 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\coral.cpp
+
+1671526191 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\dori.cpp
+
+1671526195 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\elang.cpp
+
+1671526201 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\gua.cpp
+
+1671526205 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\gurita.cpp
+
+1671526209 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\hiu.cpp
+
+1671526213 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\ikan_biru.cpp
+
+1671526217 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\ikan_krem.cpp
+
+1671526221 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\kawanan_burung.cpp
+
+1671526225 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\kerang_hijau.cpp
+
+1671526228 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\kerang_oreo.cpp
+
+1672217943 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\laut_depan.cpp
+
+1672217945 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\laut_samping.cpp
+
+1671526248 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\nemo.cpp
+
+1671526251 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\pasir.cpp
+
+1671526255 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\perahu.cpp
+
+1671526259 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\pohon.cpp
+
+1671526262 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\pulau.cpp
+
+1671526270 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\rumah_bob.cpp
+
+1671526276 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\rumah_patrick.cpp
+
+1671526281 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\rumah_squidward.cpp
+
+1671526284 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\rumput.cpp
+
+1671526287 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\sailboat.cpp
+
+1671526291 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\spongebob.cpp
+
+1671526244 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\menara.cpp
+
+1671526294 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\ubur_ubur.cpp
+
+1671526110 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\batu_bawah_laut.cpp
+
+1672232089 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\hujan.cpp
+
+1672284405 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\lampu_menara.cpp
+
+1672287089 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\cahaya_menara.cpp
+
+1670939510 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1672324341 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\lightingkoordinat\bulan.cpp
+
+1672324332 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\lightingkoordinat\land.cpp
+
+1672324337 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\lightingkoordinat\lautatas.cpp
+
+1672335689 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final\koordinat_pewarnaan\api.cpp
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\baru\final - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1651749606 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1672384572 source:c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\main.cpp
+	"include.h"
+
+1672339926 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\include.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<windows.h>
+	<mmsystem.h>
+	"Koordinat_pewarnaan/balon_udara.cpp"
+	"Koordinat_pewarnaan/laut_atas.cpp"
+	"Koordinat_pewarnaan/bulan.cpp"
+	"Koordinat_pewarnaan/awan_atas_jembatan.cpp"
+	"Koordinat_pewarnaan/awan_atas_pulau_kecil.cpp"
+	"Koordinat_pewarnaan/awan_deket_bulan.cpp"
+	"Koordinat_pewarnaan/bintang_laut.cpp"
+	"Koordinat_pewarnaan/campfire.cpp"
+	"Koordinat_pewarnaan/coral.cpp"
+	"Koordinat_pewarnaan/dori.cpp"
+	"Koordinat_pewarnaan/elang.cpp"
+	"Koordinat_pewarnaan/gua.cpp"
+	"Koordinat_pewarnaan/gurita.cpp"
+	"Koordinat_pewarnaan/hiu.cpp"
+	"Koordinat_pewarnaan/ikan_biru.cpp"
+	"Koordinat_pewarnaan/ikan_krem.cpp"
+	"Koordinat_pewarnaan/kawanan_burung.cpp"
+	"Koordinat_pewarnaan/kerang_hijau.cpp"
+	"Koordinat_pewarnaan/kerang_oreo.cpp"
+	"Koordinat_pewarnaan/laut_depan.cpp"
+	"Koordinat_pewarnaan/laut_samping.cpp"
+	"Koordinat_pewarnaan/nemo.cpp"
+	"Koordinat_pewarnaan/pasir.cpp"
+	"Koordinat_pewarnaan/perahu.cpp"
+	"Koordinat_pewarnaan/pohon.cpp"
+	"Koordinat_pewarnaan/pulau.cpp"
+	"Koordinat_pewarnaan/rumah_bob.cpp"
+	"Koordinat_pewarnaan/rumah_patrick.cpp"
+	"Koordinat_pewarnaan/rumah_squidward.cpp"
+	"Koordinat_pewarnaan/rumput.cpp"
+	"Koordinat_pewarnaan/sailboat.cpp"
+	"Koordinat_pewarnaan/spongebob.cpp"
+	"Koordinat_pewarnaan/menara.cpp"
+	"Koordinat_pewarnaan/ubur_ubur.cpp"
+	"Koordinat_pewarnaan/batu_bawah_laut.cpp"
+	"Koordinat_pewarnaan/hujan.cpp"
+	"Koordinat_pewarnaan/lampu_menara.cpp"
+	"Koordinat_pewarnaan/cahaya_menara.cpp"
+	"Koordinat_pewarnaan/api.cpp"
+	"Koordinat_pewarnaan/percikanApi.cpp"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1671524612 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\balon_udara.cpp
+
+1671526232 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\laut_atas.cpp
+
+1672325711 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\bulan.cpp
+
+1671524677 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\awan_atas_jembatan.cpp
+
+1671524683 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\awan_atas_pulau_kecil.cpp
+
+1671524688 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\awan_deket_bulan.cpp
+
+1671526120 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\bintang_laut.cpp
+
+1671526176 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\campfire.cpp
+
+1671526182 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\coral.cpp
+
+1671526191 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\dori.cpp
+
+1671526195 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\elang.cpp
+
+1671526201 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\gua.cpp
+
+1671526205 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\gurita.cpp
+
+1671526209 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\hiu.cpp
+
+1671526213 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\ikan_biru.cpp
+
+1671526217 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\ikan_krem.cpp
+
+1671526221 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\kawanan_burung.cpp
+
+1671526225 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\kerang_hijau.cpp
+
+1671526228 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\kerang_oreo.cpp
+
+1672217943 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\laut_depan.cpp
+
+1672217945 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\laut_samping.cpp
+
+1671526248 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\nemo.cpp
+
+1671526251 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\pasir.cpp
+
+1671526255 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\perahu.cpp
+
+1671526259 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\pohon.cpp
+
+1671526262 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\pulau.cpp
+
+1671526270 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\rumah_bob.cpp
+
+1671526276 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\rumah_patrick.cpp
+
+1671526281 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\rumah_squidward.cpp
+
+1671526284 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\rumput.cpp
+
+1671526287 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\sailboat.cpp
+
+1671526291 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\spongebob.cpp
+
+1672378918 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\menara.cpp
+
+1671526294 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\ubur_ubur.cpp
+
+1671526110 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\batu_bawah_laut.cpp
+
+1672232089 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\hujan.cpp
+
+1672284405 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\lampu_menara.cpp
+
+1672287089 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\cahaya_menara.cpp
+
+1672336549 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\api.cpp
+
+1672336543 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\koordinat_pewarnaan\percikanapi.cpp
+
+1670939510 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\users\firdaus\documents\pelajaran\s3\grafikom\glfw\tubes\final_tubes\final - copy\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
